@@ -5,3 +5,7 @@
 .pub/
 
 build/
+/.vscode
+example/.flutter-plugins-dependencies
+example/ios/Flutter/flutter_export_environment.sh
+/example/ios/Flutter/ephemeral
